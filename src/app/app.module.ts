@@ -1,3 +1,4 @@
+//this is the root module - what makes up the application
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
